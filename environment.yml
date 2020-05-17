@@ -1,0 +1,9 @@
+name: housing-market
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyter_contrib_nbextensions
+prefix: /home/skelletor/.pyenv/versions/anaconda3-2020.02/envs/housing-market
+
