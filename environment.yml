@@ -7,6 +7,7 @@ dependencies:
   - jupyter_contrib_nbextensions
   - pandas
   - numpy
+  - scipy
   - matplotlib
   - seaborn
 prefix: /home/skelletor/.pyenv/versions/anaconda3-2020.02/envs/housing-market
