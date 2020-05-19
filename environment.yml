@@ -9,8 +9,5 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
-  - scipy
-  - scikit-learn
-  - statsmodels
 prefix: /home/skelletor/.pyenv/versions/anaconda3-2020.02/envs/housing-market
 
