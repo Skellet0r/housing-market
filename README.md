@@ -8,7 +8,7 @@ A real estate company in the King County area wants to investigate house sales i
 
 ## Components
 
-- [Blog Post](https://dev.to/skellet0r/visualization-techniques-13j7-temp-slug-7149503)
+- [Blog Post](https://dev.to/skellet0r/visualization-techniques-4gop)
 - Data
 - [Jupyter Notebook](index.ipynb)
 - [Presentation](presentation.pdf)
