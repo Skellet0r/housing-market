@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Skellet0r/housing-market/master?filepath=index.ipynb)
+
 # Housing Market
 
 This project was completed as part of Flatiron School's Part-Time Data Science Bootcamp. 
@@ -9,7 +11,7 @@ A real estate company in the King County area wants to investigate house sales i
 ## Components
 
 - Data
-- [Jupyter Notebook](index.ipynb)
+- [Jupyter Notebook](https://mybinder.org/v2/gh/Skellet0r/housing-market/master?filepath=index.ipynb)
 - [Presentation](presentation.pdf)
 
 ## Quick Start Guide
