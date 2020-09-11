@@ -2,8 +2,6 @@
 
 # Housing Market
 
-This project was completed as part of Flatiron School's Part-Time Data Science Bootcamp. 
-
 ## Background
 
 A real estate company in the King County area wants to investigate house sales in order to predict pricing. Our task is to clean, explore, and model the housing data they have supplied to us in `kc_house_data.csv`, and identify house features which significantly effect house price. 
